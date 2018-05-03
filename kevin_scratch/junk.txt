@@ -1,0 +1,74 @@
+ Volume in drive E is WQ1
+ Volume Serial Number is D496-DC67
+
+ Directory of E:\GitHub\PEST_DO_UYR\kevin_scratch
+
+05/03/2018  01:47 PM    <DIR>          .
+05/03/2018  01:47 PM    <DIR>          ..
+04/10/2018  01:19 PM               188 control.cnd
+04/10/2018  01:21 PM           476,688 control.drf
+04/10/2018  01:21 PM                28 control.jac
+04/10/2018  01:21 PM            27,620 control.jco
+04/10/2018  01:19 PM            89,325 control.jst
+04/06/2018  10:55 AM           369,498 control.mtt
+04/10/2018  01:19 PM             6,780 control.par
+04/06/2018  10:51 AM            50,495 control.pst
+04/10/2018  01:22 PM           152,586 control.rec
+04/10/2018  01:21 PM            68,297 control.rei
+04/10/2018  01:22 PM           125,103 control.res
+04/10/2018  01:22 PM                28 control.rst
+04/10/2018  01:22 PM           103,378 control.sen
+04/10/2018  01:22 PM            58,868 control.seo
+04/11/2018  11:41 AM               191 control_sc.cnd
+04/11/2018  11:45 AM           476,688 control_sc.drf
+04/11/2018  11:45 AM           503,996 control_sc.jac
+04/11/2018  11:45 AM           405,596 control_sc.jco
+04/11/2018  11:41 AM            89,325 control_sc.jst
+04/11/2018  11:45 AM           369,501 control_sc.mtt
+04/11/2018  11:41 AM             6,780 control_sc.par
+04/11/2018  11:30 AM            62,187 control_sc.pst
+04/11/2018  11:45 AM           514,127 control_sc.rec
+04/11/2018  11:41 AM            68,297 control_sc.rei
+04/11/2018  11:45 AM           125,103 control_sc.res
+04/11/2018  11:45 AM                28 control_sc.rst
+04/11/2018  11:45 AM           109,326 control_sc.sen
+04/11/2018  11:45 AM            58,868 control_sc.seo
+04/19/2018  02:54 PM           119,691 control_sc_post.cov
+04/06/2018  10:40 AM            12,120 Extract_Q2Kw_calibration_fit_parameters_v2.r
+04/06/2018  11:15 AM            11,281 forecast_sum.pdf
+04/11/2018  02:13 PM             1,712 GenLinPred00.in
+04/11/2018  02:00 PM           146,018 genlinpred0502.out
+04/11/2018  02:07 PM           146,018 genlinpred0606.out
+04/11/2018  02:14 PM           146,018 genlinpred0808.out
+04/06/2018  11:16 AM            13,756 indiv_pars_certain_future.pdf
+05/03/2018  01:47 PM                 0 junk.txt
+05/03/2018  11:07 AM    <DIR>          Jupyter_Notebooks
+02/23/2018  12:01 PM                22 message.dat
+04/06/2018  10:42 AM               164 model.bat
+04/05/2018  02:44 PM            17,373 model.ins
+04/11/2018  11:45 AM            20,040 model.out
+09/12/2013  09:36 AM         1,806,336 qual2kw6.exe
+04/11/2018  11:45 AM           313,572 UY_do.q2k
+03/20/2018  11:07 AM           313,579 UY_do.tpl
+              44 File(s)      7,386,595 bytes
+
+ Directory of E:\GitHub\PEST_DO_UYR\kevin_scratch\Jupyter_Notebooks
+
+05/03/2018  11:07 AM    <DIR>          .
+05/03/2018  11:07 AM    <DIR>          ..
+05/03/2018  11:07 AM    <DIR>          .ipynb_checkpoints
+04/19/2018  02:54 PM           178,312 bayes_linear_estimation.ipynb
+03/26/2018  05:00 PM            14,855 Run PEST to get Jaccobian.ipynb
+03/27/2018  02:20 PM             7,807 Run PEST.ipynb
+               3 File(s)        200,974 bytes
+
+ Directory of E:\GitHub\PEST_DO_UYR\kevin_scratch\Jupyter_Notebooks\.ipynb_checkpoints
+
+05/03/2018  11:07 AM    <DIR>          .
+05/03/2018  11:07 AM    <DIR>          ..
+04/06/2018  11:18 AM           180,920 bayes_linear_estimation-checkpoint.ipynb
+               1 File(s)        180,920 bytes
+
+     Total Files Listed:
+              48 File(s)      7,768,489 bytes
+               8 Dir(s)  63,773,360,128 bytes free
